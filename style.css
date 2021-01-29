@@ -1,0 +1,21 @@
+.header {color:rgb(21, 94, 37);
+    display:flex;
+    justify-content:space-between;
+    border:solid;
+    border-style: double;
+    
+}
+
+
+.grid{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly ;
+    border:solid;
+    border-style: double;
+}
+
+.Item{
+    position:absolute;
+    
+}
